@@ -45,14 +45,14 @@ flutter:
   # Please refer to README.md for a detailed explanation.
   plugin:
     platforms:
-      android:
-        ffiPlugin: true
-      ios:
-        ffiPlugin: true
+#      android:
+#        ffiPlugin: true
+#      ios:
+#        ffiPlugin: true
       linux:
         ffiPlugin: true
-      macos:
-        ffiPlugin: true
+#      macos:
+#        ffiPlugin: true
       windows:
         ffiPlugin: true
 
